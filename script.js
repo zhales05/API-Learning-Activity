@@ -19,6 +19,6 @@ document.getElementById("emailSubmit").addEventListener("click", function(event)
         results += json.age;
         results += "</p>";
        document.getElementById("output").innerHTML = results;
-       document.getElementById("output").style.border = "thick solid #0000FF";
+       document.getElementById("output").style.border = "thick solid #000000";
       });
 });

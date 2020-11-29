@@ -21,6 +21,9 @@ body {
     width: 50%;
     text-align: center;
 }
+#emailSubmit {
+    margin: 1%;
+}
 html, body {
     margin: 0; 
     padding: 0;
